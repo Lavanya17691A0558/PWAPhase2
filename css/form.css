@@ -1,0 +1,29 @@
+body{
+  background: pink;
+}
+.parent{
+  width: 100%;
+  border: 2px solid purple;
+  display: flex;
+  flex-wrap: wrap;
+}
+.career,.Skills{
+  width: 90%;
+  border: 2px solid purple;
+  margin: 2%;
+  padding: 3%;
+  text-align: center;
+
+}
+.Details{
+  width: 30%;
+  border: 2px solid purple;
+  margin: 7%;
+  padding: 2%;
+  text-align: center;
+
+}
+input,select{
+width: 80%;
+margin: 2%;
+}
